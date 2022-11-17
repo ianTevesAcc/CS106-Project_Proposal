@@ -1,0 +1,9 @@
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/CS106_2_ProjectDevelopment.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/CS106_2_ProjectDevelopment_autogen_timestamp_deps.dir
+C:/Users/marci/OneDrive/Documents/GitHub/CS106-Project_Proposal/build-CS106_2_ProjectDevelopment-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/CS106_2_ProjectDevelopment_autogen.dir
